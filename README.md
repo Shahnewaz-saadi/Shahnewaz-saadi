@@ -1,11 +1,13 @@
-# 💫
-Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shahnewaz Saadi
-=======================================================================================================================================
+Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br/> I'm 💫 Shahnewaz Saadi 💫
+===============================================================================================================================================
 
-🔭 I’m A Student at Pabna University of Science and Technology 👯 I’m looking to collaborate on Android Development 🤝 I’m looking for help with Development 🌱 I’m currently learning Laravel 💬 Ask me about Anything
-
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [shahnewazsaadi@gmail.com](mailto:shahnewazsaadi@gmail.com)
+🔭 I’m A Student at Pabna University of Science and Technology 
+👯 I’m looking to collaborate on Android Development 
+🤝 I’m looking for help with Development 
+🌱 I’m currently learning Laravel 
+💬 Ask me about Anything
+🌍  I'm based in Bangladesh
+✉️  You can contact me at [shahnewazsaadi@gmail.com](mailto:shahnewazsaadi@gmail.com)
 
 
 ## 🌐 Socials:
