@@ -6,7 +6,8 @@ Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 🤝 I’m looking for help with Development <br/>
 🌱 I’m currently learning Laravel <br/>
 💬 Ask me about Anything <br/>
-🌍  I'm based in Bangladesh <br/> 
+🌍 I'm based in Bangladesh <br/> 
+🩸 Blood Group O(+ve) <br/>
 ✉️  You can contact me at [shahnewazsaadi@gmail.com](mailto:shahnewazsaadi@gmail.com) <br/>
 
 
